@@ -1,4 +1,5 @@
 language: bash
 script:
+  - echo "hello"
   - echo "Travis CIでテストしてほしいスクリプトを書く"
   - ./same-test.sh
